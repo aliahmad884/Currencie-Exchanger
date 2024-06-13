@@ -54,7 +54,7 @@ export default function Layout() {
 
     const handleAmount = () => {
         let elt = document.getElementById("amountIn");
-        elt.value = 1;
+        // elt.value = 1;
         let amt = rate.exRate * amount;
         setDisplay(amt);
     }
