@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Currencie-Exchanger/static/css/main.c0a198bd.css",
+    "main.js": "/Currencie-Exchanger/static/js/main.3fffc24e.js",
+    "static/js/453.dcc77f60.chunk.js": "/Currencie-Exchanger/static/js/453.dcc77f60.chunk.js",
+    "index.html": "/Currencie-Exchanger/index.html",
+    "main.c0a198bd.css.map": "/Currencie-Exchanger/static/css/main.c0a198bd.css.map",
+    "main.3fffc24e.js.map": "/Currencie-Exchanger/static/js/main.3fffc24e.js.map",
+    "453.dcc77f60.chunk.js.map": "/Currencie-Exchanger/static/js/453.dcc77f60.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0a198bd.css",
+    "static/js/main.3fffc24e.js"
+  ]
+}
