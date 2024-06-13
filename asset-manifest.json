@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Currencie-Exchanger/static/css/main.c0a198bd.css",
-    "main.js": "/Currencie-Exchanger/static/js/main.3fffc24e.js",
+    "main.css": "/Currencie-Exchanger/static/css/main.81ecb2d4.css",
+    "main.js": "/Currencie-Exchanger/static/js/main.9e97eac2.js",
     "static/js/453.dcc77f60.chunk.js": "/Currencie-Exchanger/static/js/453.dcc77f60.chunk.js",
     "index.html": "/Currencie-Exchanger/index.html",
-    "main.c0a198bd.css.map": "/Currencie-Exchanger/static/css/main.c0a198bd.css.map",
-    "main.3fffc24e.js.map": "/Currencie-Exchanger/static/js/main.3fffc24e.js.map",
+    "main.81ecb2d4.css.map": "/Currencie-Exchanger/static/css/main.81ecb2d4.css.map",
+    "main.9e97eac2.js.map": "/Currencie-Exchanger/static/js/main.9e97eac2.js.map",
     "453.dcc77f60.chunk.js.map": "/Currencie-Exchanger/static/js/453.dcc77f60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0a198bd.css",
-    "static/js/main.3fffc24e.js"
+    "static/css/main.81ecb2d4.css",
+    "static/js/main.9e97eac2.js"
   ]
 }
