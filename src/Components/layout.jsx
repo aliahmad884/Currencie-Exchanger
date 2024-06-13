@@ -96,7 +96,7 @@ export default function Layout() {
                             </div>
 
                             <div className="flex align-center justify-center">
-                                <img src="/assets/arrow.png" className="w-8 h-7 mt-7" alt="Converter" />
+                                <img src="./assets/arrow.png" className="w-8 h-7 mt-7" alt="Converter" />
                             </div>
 
                             <div className="block px-1  grid grid-cols-2">
@@ -120,7 +120,7 @@ export default function Layout() {
                             <input type="button" value="Convert" onClick={() => {
                                 updateData(!getData)
                                 handleAmount()
-                            }} className="w-80 bg-blue-500 rounded-sm cursor-pointer text-white py-2 mt-8 mb-16" />
+                            }} className="w-80 bg-red-500 rounded-sm cursor-pointer text-white py-2 mt-8 mb-16" />
                         </div>
                     </form>
                 </div>
