@@ -120,7 +120,7 @@ export default function Layout() {
                             <input type="button" value="Convert" onClick={() => {
                                 updateData(!getData)
                                 handleAmount()
-                            }} className="w-80 bg-red-500 rounded-sm cursor-pointer text-white py-2 mt-8 mb-16" />
+                            }} className="w-80 bg-blue-500 rounded-sm cursor-pointer text-white py-2 mt-8 mb-16" />
                         </div>
                     </form>
                 </div>
