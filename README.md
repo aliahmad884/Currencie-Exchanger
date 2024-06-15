@@ -1,5 +1,5 @@
 # Currencies Exchange Rates 
-This is an simple world wide exchange rates provider application integrated with an free Exchange Rates API. I have built this application with React-JS. The API provides upto 150 countries exchange rate with maximum latest exchange rate.
+This is an simple world wide exchange rates provider application integrated with an free Exchange Rates API. I have built this application with React-JS. The API provides upto 150 countries with maximum latest exchange rate.
 # API provider:
 https://github.com/fawazahmed0/exchange-api
 
