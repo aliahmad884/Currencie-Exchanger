@@ -1,3 +1,11 @@
+# Currencies Exchange Rates 
+This is an simple world wide exchange rates provider application integrated with an free Exchange Rates API. I have built this application with React-JS. The API provides upto 150 countries exchange rate with maximum latest exchange rate.
+# API provider:
+https://github.com/fawazahmed0/exchange-api
+
+# Application Link:
+https://aliahmad884.github.io/Currencie-Exchanger/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
